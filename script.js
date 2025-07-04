@@ -19,5 +19,5 @@ stars.forEach(star => {
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  alert('Відгук надіслано!');
+  alert('Dziękujemy za Twoją opinię!');
 });
